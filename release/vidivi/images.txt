@@ -1,1 +1,2 @@
-injistackdev/inji-certify-with-plugins:release-1.0.x 1.0.0-rc.1
+mosipdev/dsl-orchestrator:release-1.6.x release-1.6.x
+mosipdev/dsl-packetcreator:release-1.6.x release-1.6.x
